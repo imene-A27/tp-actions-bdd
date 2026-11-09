@@ -4,6 +4,7 @@ CREATE TABLE students (
     grade NUMERIC(4,2) NOT NULL
 );
 
-INSERT INTO students (name, grade) VALUES ('Amel', 15);
-INSERT INTO students (name, grade) VALUES ('Karim', 12);
+INSERT INTO students (name, grade) VALUES ('Imene', 16);
+INSERT INTO students (name, grade) VALUES ('Ali', 12);
+
 
